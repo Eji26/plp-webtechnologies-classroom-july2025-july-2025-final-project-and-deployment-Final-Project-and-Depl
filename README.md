@@ -19,6 +19,13 @@ Before you write any code, take time to plan:
 
 ---
 
+Project specific details
+
+- Purpose: A blog about the true power of herbal medicines — bridging traditional knowledge with modern research and safe, practical guidance for everyday use.
+- Target audience: People interested in natural health, beginners wanting approachable evidence-informed guides, and practitioners seeking references.
+- Core pages: `index.html` (Home), `about.html` (About), `blog.html` (Blog listing), `post.html` (Blog post template), `contact.html` (Contact form).
+
+
 ## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
 
 Using your plan, begin building:
